@@ -49,7 +49,7 @@ $(function () {
     });
 
     var items = new DataCollection([{
-        name: 'Client',
+        name: 'A Client',
         data: [14000,22000,14000,87000,43400]
     } 
      ]);
